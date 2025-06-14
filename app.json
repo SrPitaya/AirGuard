@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BuddyBucksV2",
-    "slug": "BuddyBucksV2",
+    "name": "AirGuard",
+    "slug": "AirGuard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -14,7 +14,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#181A20"
       }
     },
     "web": {
@@ -27,7 +27,7 @@
       [
         "expo-splash-screen",
         {
-          "backgroundColor": "#52CC99"
+          "backgroundColor": "#181A20"
         }
       ]
     ],
